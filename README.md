@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lying-penguin
+- 👀 I’m interested in Programming, Hardware, Automation and Networking
+- 🌱 I’m currently learning Power Platform for Dynamics 365
+- 💞️ I’m looking to collaborate on Small Programming Projects
